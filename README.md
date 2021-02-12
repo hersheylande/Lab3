@@ -1,6 +1,6 @@
 # Lab3
 
-[Interact with the Live Map here!](https://github.com/hersheylande/Lab3/index.html)
+[Interact with the Live Map here!](https://github.com/hersheylande/Lab3/blob/main/index.html)
 
 ![](img/Map.png)
 
