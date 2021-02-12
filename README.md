@@ -1,6 +1,6 @@
 # Lab3
 
-[Interact with the live map here!](https://support.west-wind.com)
+[Interact with the Live Map here!](https://github.com/hersheylande/Lab3/index.html)
 
 ![](img/Map.png)
 
